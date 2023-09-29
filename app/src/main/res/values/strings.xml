@@ -4,7 +4,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string-array name="colors_array">
-        <item>#FF0000</item> <!-- Red -->
+        <item>#FF0000</item> <!-- red -->
         <item>#00FF00</item> <!-- Green -->
         <item>#0000FF</item> <!-- Blue -->
         <item>#FFFF00</item> <!-- Yellow -->
@@ -14,4 +14,6 @@
         <item>#008000</item> <!-- Dark Green -->
         <item>#000080</item> <!-- Navy -->
     </string-array>
+
+
 </resources>

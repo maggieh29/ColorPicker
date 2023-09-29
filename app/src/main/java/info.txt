@@ -1,0 +1,11 @@
+Maggie Harvey
+1. Indeitfy where each parts of the code
+- A messageSendListener interface
+Seperate interface file
+● A main activity that implements an interface
+in MainActivity.java
+● A fragment with a grid a button listener and some new methods
+In the colorpickfragment.java
+● onAttach, onCreateView
+onAttach and onCreateView both in the ColorPickFragment.java
+
